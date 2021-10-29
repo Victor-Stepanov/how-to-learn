@@ -1,0 +1,10 @@
+.footer__column-icon {
+	width: 16px;
+	height: 16px;
+	margin-right: 10px;
+	box-sizing: border-box;
+  }
+
+.footer__column-link:hover {
+	opacity: 0.12;
+  }
