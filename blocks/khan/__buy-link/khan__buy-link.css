@@ -6,10 +6,10 @@
 	font-weight: 400;
 	text-decoration: none;
 	color: #2f80ed;
+	transition: 2s;
    
   }
   
   .khan__buy-link:hover {
-	opacity: 1.2;
-	color: black;
+	opacity: 0.4;
 }

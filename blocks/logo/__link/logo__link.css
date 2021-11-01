@@ -1,0 +1,7 @@
+.logo__link{
+	transition: 2s;
+}
+
+.logo__link:hover {
+	opacity: 0.4;
+}
